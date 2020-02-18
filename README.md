@@ -1,9 +1,8 @@
 [![Build Status](https://travis-ci.org/allenai/ai2thor.svg?branch=master)](https://travis-ci.org/allenai/ai2thor)
-<p align="center"><img width="40%" src="doc/static/thor-logo-main_1.0_thick.png" /></p>
+
+<a href="https://www.youtube.com/watch?v=KcELPpdN770"><p align="center"><img width="100%" src="doc/static/THORVideoSplash_Light.jpg"></p></a>
 
 --------------------------------------------------------------------------------
-
-<a href="https://www.youtube.com/watch?v=KcELPpdN770" target="_blank"><p align="center"><img width="100%" src="doc/static/THORVideoSplash_Light.jpg"></p></a>
 
 [AI2-THOR (The House Of inteRactions)](https://ai2thor.allenai.org/) is a near photo-realistic interactable framework for AI agents.
 
