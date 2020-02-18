@@ -3,6 +3,8 @@
 
 --------------------------------------------------------------------------------
 
+<a href="https://www.youtube.com/watch?v=KcELPpdN770" target="_blank"><p align="center"><img width="100%" src="doc/static/THORVideoSplash_Light.jpg"></p></a>
+
 [AI2-THOR (The House Of inteRactions)](https://ai2thor.allenai.org/) is a near photo-realistic interactable framework for AI agents.
 
 ## News
