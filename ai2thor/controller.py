@@ -725,7 +725,7 @@ class Controller(object):
             self.container_id = ai2thor.docker.run(image_name, self.base_dir(), ' '.join(command), env)
             atexit.register(lambda: ai2thor.docker.kill_container(self.container_id))
         else:
-            proc = subprocess.Popen(command, env=env)
+            proc = subprocess.Popen(command)
             self.unity_pid = proc.pid
             atexit.register(lambda: proc.poll() is None and proc.kill())
             returncode = proc.wait()
